@@ -9,8 +9,8 @@ Gavin Abercrombie, Aiqi Jiang, Poppy Gerrard-Abbott, Ioannis Konstas, and Verena
 #### Datasets
 
 
-| Reference | Title | Dataset URL | GBV characterisation |
-|:----- |:----- |:----- |:----- |
-| Al-Hassan and Al-Dossari 2022 | WDetection of hate speech in Arabic tweets using deep learning  |  | *Sexism* |
+| Reference | Title | Dataset URL | GBV characterisation | Platform | Language | Annotators | Dates |
+|:----- |:----- |:----- |:----- | :----- | :----- | :----- | :----- |
+| Al-Hassan and Al-Dossari 2022 | WDetection of hate speech in Arabic tweets using deep learning  | N/A | *Sexism* | Twitter | Arabic | 2 volunteers | N/A | 
 
 
