@@ -1,5 +1,5 @@
 # GBV-Resources
-A repository of resources for classification of online Gender-Based Violence and related phenomena.
+A repository of resources for automated identification of online Gender-Based Violence and related phenomena.
 
 For futher details, see:
 
