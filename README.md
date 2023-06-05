@@ -53,6 +53,7 @@ Gavin Abercrombie, Aiqi Jiang, Poppy Gerrard-Abbott, Ioannis Konstas, and Verena
 | Lynn et al., 2019 | Urban Dictionary definitions dataset for misogyny speech detection | https://ieee-dataport.org/documents/urban-dictionary-definitions-dataset-misogyny-speech-detection | *Misogyny* | Urban Dictionary | English | Text | Keywords | 1999 - 2006 | 3 independent researchers | No | No | No |
 | [Mathew et al., 2021](https://ojs.aaai.org/index.php/AAAI/article/view/17745) | HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection | https://github.com/hate-alert/HateXplain | *Women* as target | Gab, Twitter | English | Text | Keywords | Gab: unknown; Twitter: twitter Jan. 2019 - June 2020 | 253 crowdworkers | No | No | No |
 | [Mulki and Ghanem, 2021](https://aclanthology.org/2021.wanlp-1.16/) | Let-Mi: An Arabic Levantine Twitter Dataset for Misogynistic Language | https://github.com/bilalghanem/let-mi | *Misogyny* | Twitter | Arabic (Levantine) | Text | Targeted journalists' accounts | Oct. - Nov. 2019 | 3: 1 male and 2 females Levantine speakers | No | No | No |
+| [Mollas et al., 2022](https://link.springer.com/article/10.1007/s40747-021-00608-2) | ETHOS: a multi-label hate speech detection dataset | https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset | *Gender* as category | Reddit, Youtube | English | Text | Automated classification, targeted subreddits | Crowdworkers -  5 per item | No | No | No |
 | []() | | | | | | | | | | | | |
 | []() | | | | | | | | | | | | |
 | []() | | | | | | | | | | | | |
