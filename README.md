@@ -9,7 +9,7 @@ Gavin Abercrombie, Aiqi Jiang, Poppy Gerrard-Abbott, Ioannis Konstas, and Verena
 #### Datasets
 
 
-| Reference | Title | Dataset URL | GBV characterisation | Platform | Language | Modality | Sampling | Date of data | Annotators | IRB | Perspec- tivism | Data Statement |
+| Reference | Title | Dataset URL | GBV characterisation | Platform | Language | Modality | Sampling | Date of data | Annotators | IRB | Non-aggregated labels | Data Statement |
 |:----- |:----- |:----- |:----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
 | [Al-Hassan and Al-Dossari, 2022](https://link.springer.com/article/10.1007/s00530-020-00742-w) | Detection of hate speech in Arabic tweets using deep learning  | N/A | *Sexism* | Twitter | Arabic | Text | Keywords | N/A | 2 volunteers | No | No | No |
 | [Almanea and Poesio, 2022](https://aclanthology.org/2022.lrec-1.244/) | ArMIS - The Arabic Misogyny and Sexism Corpus with Annotator Subjective Disagreements | https://codalab.lisn.upsaclay.fr/competitions/6146#learn_the_details-get_starting_kit | *Misogyny*, *Sexism* | Twitter | Arabic | Text | Keywords | October 2020 | 3 main annotators and 32 others. Self-defined beliefs and gender | No | Yes | No |
@@ -46,6 +46,7 @@ Gavin Abercrombie, Aiqi Jiang, Poppy Gerrard-Abbott, Ioannis Konstas, and Verena
 | [Kennedy et al., 2020](https://arxiv.org/abs/2009.10277) | Constructing interval variables via faceted Rasch measurement and multitask deep learning: a hate speech application | https://huggingface.co/datasets/ucberkeley-dlab/measuring-hate-speech | *gender identity* as target, *sexist speech* | Twitter, Reddit, YouTube | English | Text | Stratified sampling with identity relevance and hate speech hypothesis scores | Mar. - Aug. 2019 | 7,912 crowdworkers | No | Yes | No |
 | [Kennedy et al., 2022](https://link.springer.com/article/10.1007/s10579-021-09569-x) | Introducing the Gab Hate Corpus: defining and applying hate-based rhetoric to social media posts at scale | https://osf.io/edua3/ | *Gender identity* as target | Gab | English | Text | Targeted data source (Gab) | Jan. - Oct. 2018 | Min. 3 per item: undergraduate research assistants | No | No | No |
 | [Kirk et al., 2023](https://arxiv.org/abs/2303.04222) | SemEval-2023 Task 10: Explainable Detection of Online Sexism | https://github.com/rewire-online/edos | *Sexism* | Gab, Reddit | English | Text | Targeted data sources | Aug. 2016 Oct. 2018 | 19 women | No | Yes | Yes |
+| [Kumar et al. 2018](https://aclanthology.org/L18-1226/) | Aggression-annotated Corpus of Hindi-English Code-mixed Data | https://github.com/kraiyani/Facebook-Post-Aggression-Identification | *Gendered aggression* | Facebook, Twitter | Hindi-English | Text | Targeted pages, hashtags | Unknown | 4 PhD Linguistics students | No | No | No |
 | []() | | | | | | | | | | | | |
 | []() | | | | | | | | | | | | |
 | []() | | | | | | | | | | | | |
