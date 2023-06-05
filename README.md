@@ -52,6 +52,7 @@ Gavin Abercrombie, Aiqi Jiang, Poppy Gerrard-Abbott, Ioannis Konstas, and Verena
 | [Leite et al., 2020](https://aclanthology.org/2020.aacl-main.91/) | Toxic Language Detection in Social Media for Brazilian Portuguese: New Dataset and Multilingual Analysis | https://github.com/JAugusto97/ToLD-Br | *Misogyny* | Twitter | Portuguese (Brazilian) | Text | Keywords, hashtags, targeted users | July - Aug. 2019 | 42 volunteers at a university; 3 per item | No | No | Yes |
 | Lynn et al., 2019 | Urban Dictionary definitions dataset for misogyny speech detection | https://ieee-dataport.org/documents/urban-dictionary-definitions-dataset-misogyny-speech-detection | *Misogyny* | Urban Dictionary | English | Text | Keywords | 1999 - 2006 | 3 independent researchers | No | No | No |
 | [Mathew et al., 2021](https://ojs.aaai.org/index.php/AAAI/article/view/17745) | HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection | https://github.com/hate-alert/HateXplain | *Women* as target | Gab, Twitter | English | Text | Keywords | Gab: unknown; Twitter: twitter Jan. 2019 - June 2020 | 253 crowdworkers | No | No | No |
+| [Mulki and Ghanem, 2021](https://aclanthology.org/2021.wanlp-1.16/) | Let-Mi: An Arabic Levantine Twitter Dataset for Misogynistic Language | https://github.com/bilalghanem/let-mi | *Misogyny* | Twitter | Arabic (Levantine) | Text | Targeted journalists' accounts | Oct. - Nov. 2019 | 3: 1 male and 2 females Levantine speakers | No | No | No |
 | []() | | | | | | | | | | | | |
 | []() | | | | | | | | | | | | |
 | []() | | | | | | | | | | | | |
