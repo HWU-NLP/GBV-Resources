@@ -22,7 +22,7 @@ Gavin Abercrombie, Aiqi Jiang, Poppy Gerrard-Abbott, Ioannis Konstas, and Verena
 | [Bosco et al.](https://ceur-ws.org/Vol-2263/paper010.pdf) | Overview of the EVALITA 2018 Hate Speech Detection Task | http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html | *'Gender issues'*-based hate | Facebook, Twitter | Italian | Facebook: targeted pages and groups; Twitter: keywords | Facebook: bachelor students; Twitter: experts and crowdworkers | Facebook: 2016; Twitter 2017-2018 | No |
 | [Cercas Curry et al., 2021](https://aclanthology.org/2021.emnlp-main.587/) | ConvAbuse: Data, Analysis, and Benchmarks for Nuanced Abuse Detection in Conversational AI | https://github.com/amandacurry/convabuse | *Sexism*, *sexual harrassment* | Dialogue systems: ELIZA, CarbonBot (Facebook) | English | Stratified keyword | 6 female and 2 non-binary Gender Studies students  | CarbotBot: Oct. 2019 - Dec. 2020; ELIZA: Dec. 2002 - Nov. 2007 | Yes |
 | [Chiril et al., 2021](https://aclanthology.org/2021.findings-emnlp.242/) | "Be nice to your wife! The restaurants are closed": Can Gender Stereotype Detection Improve Sexism Classification? | https://bit.ly/FrenchGenderStereotypes | *Sexism* | Twitter | French | | Keywords, personal names, hashtags | 1 male, 1 female students in Linguistics and Communication and Gender | Unknown | No |
-| | | | | | | | | | |
+| [Chiril et al., 2019](https://aclanthology.org/2019.jeptalnrecital-court.21/) | Multilingual and Multitarget Hate Speech Detection in Tweets | N/A | *Sexism* | Twitter | 2 female and 1 male students in Communication and Gender | French | Keywords | Oct. 2017 - May 2018 | No |
 | | | | | | | | | | |
 | | | | | | | | | | |
 | | | | | | | | | | |
