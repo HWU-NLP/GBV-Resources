@@ -47,7 +47,7 @@ Gavin Abercrombie, Aiqi Jiang, Poppy Gerrard-Abbott, Ioannis Konstas, and Verena
 | [Kennedy et al., 2022](https://link.springer.com/article/10.1007/s10579-021-09569-x) | Introducing the Gab Hate Corpus: defining and applying hate-based rhetoric to social media posts at scale | https://osf.io/edua3/ | *Gender identity* as target | Gab | English | Text | Targeted data source (Gab) | Jan. - Oct. 2018 | Min. 3 per item: undergraduate research assistants | No | No | No |
 | [Kirk et al., 2023](https://arxiv.org/abs/2303.04222) | SemEval-2023 Task 10: Explainable Detection of Online Sexism | https://github.com/rewire-online/edos | *Sexism* | Gab, Reddit | English | Text | Targeted data sources | Aug. 2016 Oct. 2018 | 19 women | No | Yes | Yes |
 | [Kumar et al. 2018](https://aclanthology.org/L18-1226/) | Aggression-annotated Corpus of Hindi-English Code-mixed Data | https://github.com/kraiyani/Facebook-Post-Aggression-Identification | *Gendered aggression* | Facebook, Twitter | Hindi-English | Text | Targeted pages, hashtags | Unknown | 4 PhD Linguistics students | No | No | No |
-| []() | | | | | | | | | | | | |
+| [Kwarteng et al., 2022](https://link.springer.com/article/10.1007/s13278-022-00993-7) | Misogynoir: challenges in detecting intersectional hate | https://github.com/kwartengj/Snam2022 | *Misogynoir* (*misogyny* aimed at Black women | Twitter | English | Text | Unknown | Unknown | 3 | No | No | No |
 | []() | | | | | | | | | | | | |
 | []() | | | | | | | | | | | | |
 | []() | | | | | | | | | | | | |
