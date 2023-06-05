@@ -28,5 +28,6 @@ Gavin Abercrombie, Aiqi Jiang, Poppy Gerrard-Abbott, Ioannis Konstas, and Verena
 | [Das et al., 2022](https://aclanthology.org/2022.aacl-main.23/) | Hate Speech and Offensive Language Detection in Bengali | https://github.com/hate-alert/Bengali_Hate | *Gender* as target | Twitter | Bengali | Text | Keywords | Unknown | 4 Computer Science students | No | No | No |
 | [El Ansari et al., 2020](https://link.springer.com/chapter/10.1007/978-3-030-51935-3_14) | A Dataset to Support Sexist Content Detection in Arabic Text | *Sexism*, *discrimination and Violence Against Women* | Twitter | Arabic | Text | Keywords |  2018 | Volunteers | No | No | No |
 | [Fanton et al., 2021](https://aclanthology.org/2021.acl-long.250/) | Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech |https://github.com/marcoguerini/CONAN | *Women* as target | Semi-synthetic text | English | Text | Unknown | Unknown | 3 student interns | No | No | No |
+| [Fersini et al., 2018](https://ceur-ws.org/Vol-2150/overview-AMI.pdf) | Overview of the Task on Automatic Misogyny Identification at IberEval 2018 | https://github.com/dnozza/ami2020 | *Misogyny* | Twitter | Italian | Text | Unknown | 2018 + 2020 | Unknown | No | No | No |
 |  | | | | | | | | | | | | |  |
 |  | | | | | | | | | | | | |  |
