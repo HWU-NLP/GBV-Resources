@@ -31,5 +31,11 @@ Gavin Abercrombie, Aiqi Jiang, Poppy Gerrard-Abbott, Ioannis Konstas, and Verena
 | [Fersini et al., 2018](https://ceur-ws.org/Vol-2150/overview-AMI.pdf) | Overview of the Task on Automatic Misogyny Identification at IberEval 2018 | https://amiibereval2018.wordpress.com/important-dates/data/ | *Misogyny* | Twitter | English Spanish | Text | Keywords | July 2017 - Nov. 2017 | Unknown + crowdworkers | No | No | No |
 | [Fersini et al., 2020](https://ceur-ws.org/Vol-2765/paper161.pdf) | AMI @ EVALITA2020: Automatic Misogyny Identification | https://github.com/dnozza/ami2020 | *Misogyny* | Twitter | Italian | Text | Unknown | 2018 + 2020 | Unknown | No | No | No |
 | [Fersini et al., 2022](https://aclanthology.org/2022.semeval-1.74.pdf) | SemEval-2022 Task 5: Multimedia Automatic Misogyny Identification | https://competitions.codalab.org/competitions/34175 | *Misogyny* | Twitter, Reddit;  meme sites e.g., 9GaG, Knowyourmeme, Imgur | English | Memes | Threads with women as the subject; anti-women accounts; (3) target victim accounts; (4) keywords and hashtags | Unknown | Unknown | No | No | No | 
-|  | | | | | | | | | | | | | 
-|  | | | | | | | | | | | | | 
+| [García-Díaz et al., 2021](https://www.sciencedirect.com/science/article/pii/S0167739X20301928) | Detecting misogyny in Spanish tweets. An approach based on linguistics features and word embeddings | https://pln.inf.um.es/corpora/misogyny/misocorpus-spanish-2020.rar | *Misogyny* | Twitter | Spanish | Text | Target accounts; geographical locations; keywords | Unknown | 5 women, 2 men:  authors, 2 colleagues, 1 student | No | No | No | 
+| [Gomez et al., 2021](https://ieeexplore.ieee.org/abstract/document/9093414) | Exploring hate speech detec-
+tion in multimodal publications. | *Sexism* | Twitter | English | Image + text | Keywords | Sept. 2018 - Feb. 2019 | 3 crowdworkers per item | No | No | No |  
+|  | | | | | | | | | | | | 
+|  | | | | | | | | | | | | 
+|  | | | | | | | | | | | |
+|  | | | | | | | | | | | |
+|  | | | | | | | | | | | |
