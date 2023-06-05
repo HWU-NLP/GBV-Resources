@@ -41,7 +41,8 @@ Gavin Abercrombie, Aiqi Jiang, Poppy Gerrard-Abbott, Ioannis Konstas, and Verena
 | [Höfels et al., 2022](https://aclanthology.org/2022.lrec-1.243/) | CoRoSeOf - An Annotated Corpus of Romanian Sexist and Offensive Tweets | https://aclanthology.org/2022.lrec-1.243/ | *Sexism* | Twitter | Romanian | Text | Keywords | May - Sept. 2021 | 10: 7 female, 3 male students in Languages and Literature and Modern Applied Languages 'with an interest/knowledge in gender studies' | No | No | Partial | 
 | [Ibrohim et al., 2019](https://aclanthology.org/W19-3506/) | Multi-label Hate Speech and Abusive Language Detection in Indonesian Twitter | https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection | *Hate based on gender* as category | Twitter | Indonesian | Text | Previous datasets + keywords | Mar. - Oct. 2018 + old data | 30 from different backgrounds. 3 per item. | No | No | No |
 | [Jha and Mamidi, 2017](https://aclanthology.org/W17-2902/) | When does a compliment become sexist? Analysis and classification of ambivalent sexism using Twitter data | https://github.com/AkshitaJha/NLP_CSS_2017 | *Sexism* | Twitter | English | Text | Keywords | Unknown | Authors + 3 23-year old non-activist feminists | No | No | No |
-| []() | | | | | | | | | | | |
-| []() | | | | | | | | | | | |
-| []() | | | | | | | | | | | |
-| []() | | | | | | | | | | | |
+| [Jiang et al., 2022](https://www.sciencedirect.com/science/article/pii/S2468696421000604) | SWSR: A Chinese dataset and lexicon for online sexism detection | https://zenodo.org/record/4773875#.Y5DTMYLP3ao | *Sexism* | Sina Weibo | Chinese | Text | Keywords | June 2015 - June 2020 | 3: 2 female and one male PHD students | No | No | No |
+| []() | | | | | | | | | | | | |
+| []() | | | | | | | | | | | | |
+| []() | | | | | | | | | | | | |
+| []() | | | | | | | | | | | | |
