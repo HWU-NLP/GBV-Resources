@@ -1,9 +1,10 @@
 # GBV-Resources
-A repository of resources for automated identification of online Gender-Based Violence and related phenomena.
 
-For futher details, see:
+This repository serves as a comprehensive collection of resources for the automated identification of  online **Gender-Based Violence (GBV)** and related phenomena. 
 
-Gavin Abercrombie, Aiqi Jiang, Poppy Gerrard-Abbott, Ioannis Konstas, and Verena Rieser. 2023. Resources for Automated Identification of Online Gender-Based Violence: A Systematic Review. Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH). Association for Computational Linguistics.
+For further details, see our systematic review paper:
+
+> Gavin Abercrombie, Aiqi Jiang, Poppy Gerrard-Abbott, Ioannis Konstas, and Verena Rieser. 2023. Resources for Automated Identification of Online Gender-Based Violence: A Systematic Review. Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH). Association for Computational Linguistics.
 
 
 #### Datasets
@@ -61,7 +62,7 @@ Gavin Abercrombie, Aiqi Jiang, Poppy Gerrard-Abbott, Ioannis Konstas, and Verena
 | [ de Pelle and Moreira, 2017](https://sol.sbc.org.br/index.php/brasnam/article/view/3260) | Offensive Comments in the Brazilian Web: a dataset and baseline results | https://github.com/rogersdepelle/OffComBR | *Sexism* as category | Globo news | Portuguese (Brazilian) | Text | Targeted website sections | Unknown | 5 volunteers; 3 per item | No | No | No |
 | [Rizwan et al., 2020](https://aclanthology.org/2020.emnlp-main.197/) | Hate-Speech and Offensive Language Detection in Roman Urdu  | https://github.com/haroonshakeel/roman_urdu_hate_speech | *Sexism* as category | Twitter | Urdu | Text | Keywords | Unknown | 3 | No | No | No |
 | [Rodríguez-Sánchez et al., 2020](https://ieeexplore.ieee.org/document/9281090) | Automatic Classification of Sexism in Social Networks: An Empirical Study on Twitter Data | https://github.com/franciscorodriguez92/MeTwo | *Sexism* | Twitter | Spanish | Text | Keywords, random | July - Dec. 2018 | 4 | No | No | No |
-| [Rodríguez-Sánchez et al., 2021](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6389) | http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6389 | http://nlp.uned.es/exist2021/ | *Sexism* | Gab, Twitter | English, Spanish | Text | Keywords, hashtags | Twitter: Dec. 2020 Feb. 2021; Gab: Sept. 2016 -Aug. 2019 (Spanish), Aug. 2016 - Aug. 2019 (English) | 7: 5 crowdworkers, 2 experts in gender issues (1 man, 1 woman) | No | No | No |
+| [Rodríguez-Sánchez et al., 2021](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6389) | Overview of EXIST 2021: sEXism Identification in Social neTworks | http://nlp.uned.es/exist2021/ | *Sexism* | Gab, Twitter | English, Spanish | Text | Keywords, hashtags | Twitter: Dec. 2020 Feb. 2021; Gab: Sept. 2016 -Aug. 2019 (Spanish), Aug. 2016 - Aug. 2019 (English) | 7: 5 crowdworkers, 2 experts in gender issues (1 man, 1 woman) | No | No | No |
 | [Rodríguez-Sánchez et al., 2022](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6443) | Overview of EXIST 2022: sEXism Identification in Social neTworks | http://nlp.uned.es/exist2022/ | *Sexism* | Gab, Twitter | English, Spanish | Text | Keywords | Jan. 2022 | 6 experts in gender issues (3 men, 3 women) | No | No | No |
 | [Romim et al., 2022](https://aclanthology.org/2022.lrec-1.552.pdf) | BD-SHS: A Benchmark Dataset for Learning to Detect Online Bangla Hate Speech in Different Social Contexts | https://github.com/naurosromim/hate-speech-dataset-for-Bengali-social-media | *Gender* as category, *male/female* as targets | Facebook, TikTok, Youtube | Bangla | Text | Keywords, topics | 2017 - unknown | 50 students (32 male, 18 female) | No | No | No |
 | [Samory et al., 2021](https://ojs.aaai.org/index.php/ICWSM/article/view/18085) |  “Call me sexist, but...” : Revisiting Sexism Detection Using Psychological Scales and Adversarial Samples  | https://search.gesis.org/research_data/SDN-10.7802-2251?doi=10.7802/2251 | *Sexism* | Twitter | English | Text | Keywords, hashtags | 2008 - 2019 | 5 crowdworkers | No | No | No |
@@ -74,3 +75,5 @@ Gavin Abercrombie, Aiqi Jiang, Poppy Gerrard-Abbott, Ioannis Konstas, and Verena
 | [Vidgen et al., 2021](https://aclanthology.org/2021.acl-long.132/) | Learning from the Worst: Dynamically Generated Datasets to Improve Online Hate Detection | https://github.com/bvidgen/Dynamically-Generated-Hate-Speech-Dataset | *Gender* as target | Synthetically generated social media | English | Text | N/A | Ongoing | Recruited | No | No | Yes |
 | [Yadav et al., 2023](https://arxiv.org/abs/2304.00913) | LAHM : Large Annotated Dataset for Multi-Domain and Multilingual Hate Speech Identification | N/A | *Sexism* as category | Twitter | Arabic, English, French, German, Hindi, Spanish | Text | Keywords | Unknown | Unknown | No | No | No |
 | [Zeinert et al., 2021](https://aclanthology.org/2021.acl-long.247/) | Annotating Online Misogyny | https://huggingface.co/datasets/strombergnlp/bajer_danish_misogyny | *Misogyny* | Facebook, Twitter, Reddit | Danish | Text | Keywords | Unknown | 8 recruited: 6 female, 2 male | No | No | Yes | 
+
+
