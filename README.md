@@ -70,4 +70,6 @@ Gavin Abercrombie, Aiqi Jiang, Poppy Gerrard-Abbott, Ioannis Konstas, and Verena
 | [Talat, 2016](https://aclanthology.org/W16-5618/) | Are You a Racist or Am I Seeing Things? Annotator Influence on Hate Speech Detection on Twitter | https://github.com/zeeraktalat/hatespeech | *Sexism* as category | Twitter | English | Text | Hashtags | Unknown | 1 expert (feminist and anti-racism activists) + 3 others per item | No | No | No |
 | [Talat and Hovy, 2016](https://aclanthology.org/N16-2013/) | Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter | https://github.com/zeeraktalat/hatespeech | *Sexism* as category | Twitter | English | Text | Hashtags | Unknown | 2: author + woman studying gender studies, non-activist feminist | No | No | No | 
 | Toosi, 2019 | Twitter sentiment analysis | https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech | *Sexism*  | Twitter  | English | Text | Unknown | Unknown | Unknown | No | No | No |
+| [Vidgen et al., 2021](https://aclanthology.org/2021.acl-long.132/) | Learning from the Worst: Dynamically Generated Datasets to Improve Online Hate Detection | *Gender* as target | Synthetically generated social media | English | Text | N/A | Ongoing | Recruited | No | No | Yes |
+| []() |  |  |  |  |  |  |  |  |  |  |  |
 | []() |  |  |  |  |  |  |  |  |  |  |  |
