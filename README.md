@@ -20,9 +20,21 @@ Bibtex:
 }
 ```
 
+### Contribute to this list
 
-#### Datasets
+Something missing?
 
+You can contribute to this list by editing this file and making a pull request.
+
+Please follow this template and add details at the bottom of the list.
+
+Template:
+
+```
+| Reference | Title | Dataset URL | GBV characterisation | Platform | Language | Modality | Sampling | Date of data | Annotators | IRB | Non-aggregated labels | Data Statement |
+```
+
+## Datasets
 
 | Reference | Title | Dataset URL | GBV characterisation | Platform | Language | Modality | Sampling | Date of data | Annotators | IRB | Non-aggregated labels | Data Statement |
 |:----- |:----- |:----- |:----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
