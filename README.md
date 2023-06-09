@@ -37,7 +37,7 @@ Template:
 - Reference: Link to publication or description of the resource
 - Title: Publication or dataset name
 - Dataset URL: Link to the dataset
-- GBV characterisation: How is GBV described (e.g. '*misogyny*'
+- GBV characterisation: How is GBV described (e.g. '*misogyny*', `*gender*' as a hate speech target)
 - Platform: e.g. Twitter, TikTok etc.
 - Language: e.g. Basque, Scottish Gaelic, Mi’kmaq etc.
 - Modality: e.g. Text, Video, Meme etc.
