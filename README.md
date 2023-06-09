@@ -46,7 +46,7 @@ Template:
 - Annotators: The number and type of annotators e.g. 3 students, 10000 crowdworkers, 5 per item etc.
 - IRB: Whether the study passed ethical review by an Institutional Review Board or similar
 - Non-aggregated labels: Whether the non-aggregated labels have been released 
-- Data Statement: Whether there is a data statement [](https://aclanthology.org/Q18-1041) (Bender & Friedman, TACL 2018) descibing the resource
+- Data Statement: Whether there is a data statement [(Bender & Friedman, TACL 2018)](https://aclanthology.org/Q18-1041) describing the resource
 
 
 ## Datasets
