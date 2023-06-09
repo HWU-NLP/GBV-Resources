@@ -34,6 +34,21 @@ Template:
 | Reference | Title | Dataset URL | GBV characterisation | Platform | Language | Modality | Sampling | Date of data | Annotators | IRB | Non-aggregated labels | Data Statement |
 ```
 
+- Reference: Link to publication or description of the resource
+- Title: Publication or dataset name
+- Dataset URL: Link to the dataset
+- GBV characterisation: How is GBV described (e.g. '*misogyny*'
+- Platform: e.g. Twitter, TikTok etc.
+- Language: e.g. Basque, Scottish Gaelic, Mi’kmaq etc.
+- Modality: e.g. Text, Video, Meme etc.
+- Sampling: How the source data was sampled e.g. keywords, targeted accounts, random etc.
+- Date of data: The dates between which the source data was produced/published
+- Annotators: The number and type of annotators e.g. 3 students, 10000 crowdworkers, 5 per item etc.
+- IRB: Whether the study passed ethical review by an Institutional Review Board or similar
+- Non-aggregated labels: Whether the non-aggregated labels have been released 
+- Data Statement: Whether there is a data statement ([Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science](https://aclanthology.org/Q18-1041) (Bender & Friedman, TACL 2018)) descibing the resource
+
+
 ## Datasets
 
 | Reference | Title | Dataset URL | GBV characterisation | Platform | Language | Modality | Sampling | Date of data | Annotators | IRB | Non-aggregated labels | Data Statement |
