@@ -6,6 +6,20 @@ For further details, see our systematic review paper:
 
 > Gavin Abercrombie, Aiqi Jiang, Poppy Gerrard-Abbott, Ioannis Konstas, and Verena Rieser. 2023. Resources for Automated Identification of Online Gender-Based Violence: A Systematic Review. Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH). Association for Computational Linguistics.
 
+Bibtex:
+
+```
+@inproceedings{abercrombie-etal-2023-resources,
+    title = {Resources for Automated Identification of Online {G}ender-{B}ased {V}iolence: A Systematic Review},
+    author = {Abercrombie, Gavin} and Jaing, Aiqi and Gerrard-Abbot, Poppy and Konstas, Ioannis and Rieser, Verena},
+    booktitle = {Proceedings of the 7th Workshop on Online Harms and Abuse},
+    month = {July},
+    year = {2023},
+    address = {Toronto},
+    publisher = {Association for Computational Linguistics},
+}
+```
+
 
 #### Datasets
 
